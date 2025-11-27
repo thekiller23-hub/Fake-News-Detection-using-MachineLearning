@@ -92,7 +92,7 @@ To get started with this project, follow these steps:
    source my_env/bin/activate
    ```
 
-4. Install project dependencies:
+   Install project dependencies:
    ```bash
    pip install -r requirements.txt
    ```
